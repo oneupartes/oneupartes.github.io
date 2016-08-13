@@ -35,7 +35,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: rgb(240,240,240);
+  background-color: white/*rgb(240,240,240);*/
   
 }
 body {
